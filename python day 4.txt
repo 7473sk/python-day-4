@@ -1,0 +1,6 @@
+Q1-var_1=123
+var_2=12.4
+print(type(var_1))
+print(type(var_2))
+Q2- name=input("What is your name?")
+print(name[6])
